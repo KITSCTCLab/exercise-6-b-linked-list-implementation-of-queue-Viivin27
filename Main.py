@@ -1,5 +1,4 @@
 
-
   def enqueue(self, data) -> None:
     # Write your code here
 
